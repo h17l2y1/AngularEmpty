@@ -28,6 +28,8 @@
             "scripts": []
           },
           "configurations": {
+            "github-pages": {
+              "baseHref": "angular-empty",
             "production": {
               "budgets": [
                 {
